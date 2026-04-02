@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Database local
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# User files
+*.user
+*.suo
+
+# ASP.NET Core
+appsettings.Development.json
+
+# OS
+Thumbs.db
+.DS_Store
